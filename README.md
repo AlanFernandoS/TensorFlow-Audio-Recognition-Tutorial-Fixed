@@ -31,4 +31,5 @@
       );
 ```
 Have a nice developing jornal, let me know any question, i will put here my project working, so you are free to download and make your own experiments.
+And the solution of Mismatch in sampling rate for speech-commands in TensorFlow.
 
